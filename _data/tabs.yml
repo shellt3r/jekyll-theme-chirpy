@@ -19,9 +19,9 @@
   path: tabs
   url: tags
 -
-  name: "Archives"
+  name: "Posts"
   path: tabs
-  url: archives
+  url: posts
   icon: "fas fa-archive"
 -
   name: "About"

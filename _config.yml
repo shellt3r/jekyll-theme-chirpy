@@ -8,7 +8,7 @@
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 #--------------------------
 
-title: Shellt3r                          # the main title
+title: SHELLT3R                          # the main title
 
 tagline: A cool content blog  # it will display as the sub-title
 
@@ -29,6 +29,7 @@ github:
 twitter:
   username: shellt3r            # change to your twitter username
 
+
 social:
   name: Guilherme Almeida                  # it will shows as the copyright owner in Footer
   #email: shellt3r@outlook.com.br             # change to your email address
@@ -39,6 +40,7 @@ social:
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
     - https://www.linkedin.com/in/shellt3r
+    - https://www.instagram.com/shellt3r_
 
 google_site_verification: google_meta_tag_verification # change to your verification string
 
