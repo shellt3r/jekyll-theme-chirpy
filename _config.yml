@@ -31,7 +31,7 @@ twitter:
 
 social:
   name: Guilherme Almeida                  # it will shows as the copyright owner in Footer
-  email: shellt3r@outlook.com.br             # change to your email address
+  #email: shellt3r@outlook.com.br             # change to your email address
   links:
     # The first element serves as the copyright owner's link
     - https://twitter.com/shellt3r      # change to your twitter homepage
@@ -77,7 +77,7 @@ disqus:
 #
 #     dark   - Use the dark color scheme
 #
-theme_mode: dual
+theme_mode: dark
 
 # boolean type, global switch for ToC in posts.
 toc: true
@@ -196,7 +196,7 @@ sitemap_exclude:  # Sitemap will exclude the following items.
     - /categories/
     - /tags/
     - /posts/
-    - 404.html
+#    - 404.html
     - feed.xml
     - sitemap.xml
     - robots.txt
