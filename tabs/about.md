@@ -10,7 +10,7 @@ title: About
 
 <div>
   <p>Hello, my name is Guilherme Almeida aka "Shellt3r".</p>
-  <p>I'm a geek guy who like to hack!</p>
+  <p>I'm a geek guy who likes to hack!</p>
   <p>Have something to teach or want something to learn,</p>
   <p>let's talk a little bit: Add me in <a href="https://t.me/shellt3r" target="_blank">Telegram</a>.</p>
   <p>Or send me an email: {% assign email = site.social.email | split: '@' %}
