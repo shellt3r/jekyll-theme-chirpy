@@ -21,7 +21,7 @@ url: 'https://shellt3r.github.io'
 
 author: Guilherme Almeida                  # change to your full name
 
-avatar: /assets/img/sample/avatar.jpeg   # support internet resources
+avatar: /assets/img/sample/avatar_new.jpg   # support internet resources
 
 github:
   username: shellt3r             # change to your github username
@@ -40,7 +40,7 @@ social:
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
     - https://www.linkedin.com/in/shellt3r
-    - https://www.instagram.com/shellt3r_
+    - https://www.instagram.com/shellt3r.sh
 
 google_site_verification: google_meta_tag_verification # change to your verification string
 
